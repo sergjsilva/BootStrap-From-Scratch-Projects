@@ -1,0 +1,14 @@
+{
+  "name": "bs5-simple-starter",
+  "version": "1.0.0",
+  "description": "Starter Template for Bootstrap websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Silva",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}
